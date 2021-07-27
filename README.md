@@ -2,5 +2,7 @@
 
 ### Olá! bem vindo ao meu livro de receitas :wave:
 
-- ingrediente 
+- Strogonoff
+- Pavê
+- Bolo de cenoura
 
